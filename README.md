@@ -56,6 +56,12 @@ Design and Verification of Dual-Port RAM in System Verilog environment. The main
 
   <li> Implemented all the listed testcases as per the test plan in SV linear testbench. The linear testbench consists of top module, interface, program block, packet class, and the design file. Please check out the folder SV Linear. It has all the required files </li>
 
+  <li> The SV Linear testbench will be able to execute all testcases in one simulation, but the simulation order will be sequential </li>
+
+  ### Test Plan Status
+  
+  ![image](https://github.com/lmadem/DPRAM/assets/93139766/0f80f109-38c1-4b42-a3f4-b38bf9de0fb0)
+
   #### TestCase1 EDA Waveform
 
   ![image](https://github.com/lmadem/DPRAM/assets/93139766/244f4145-1b79-4db1-838a-c70dd17a02eb)
@@ -91,6 +97,12 @@ Design and Verification of Dual-Port RAM in System Verilog environment. The main
    ![image](https://github.com/lmadem/DPRAM/assets/93139766/3c79976d-a6f0-4036-bedc-4dbfed6b71e9)
 
    ![image](https://github.com/lmadem/DPRAM/assets/93139766/5d3dfccc-c81e-4458-a3b3-121b790b8971)
+
+   ### Alltestcase EDA Waveform
+
+   ![image](https://github.com/lmadem/DPRAM/assets/93139766/86318a6d-de61-4fda-8d87-82dcc2b4d84d)
+
+   ![image](https://github.com/lmadem/DPRAM/assets/93139766/5d7e0103-d3f0-4e7a-bfd7-dd315bf8287a)
 
 
   </details>
