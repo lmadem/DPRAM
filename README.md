@@ -47,3 +47,51 @@ Design and Verification of Dual-Port RAM in System Verilog environment. The main
 
   </details>
 </details>
+
+<details>
+  <summary> Verification Results and EDA waveforms </summary>
+
+  <details>
+    <summary> SV Linear </summary>
+
+  <li> Implemented all the listed testcases as per the test plan in SV linear testbench. The linear testbench consists of top module, interface, program block, packet class, and the design file. Please check out the folder SV Linear. It has all the required files </li>
+
+  #### TestCase1 EDA Waveform
+
+  ![image](https://github.com/lmadem/DPRAM/assets/93139766/244f4145-1b79-4db1-838a-c70dd17a02eb)
+
+  ![image](https://github.com/lmadem/DPRAM/assets/93139766/8de565ad-7eae-44c7-953d-ecafa0105b14)
+
+  #### TestCase2 EDA Waveform
+
+  ![image](https://github.com/lmadem/DPRAM/assets/93139766/e05b7601-2630-4059-b426-a0f0045d45ab)
+  
+  ![image](https://github.com/lmadem/DPRAM/assets/93139766/1029a8a9-b9f5-41c8-a4d9-544006365b9f)
+
+   #### TestCase3 EDA Waveform
+
+   ![image](https://github.com/lmadem/DPRAM/assets/93139766/b62854e1-2027-4c59-97ce-b137c01e8063)
+
+   ![image](https://github.com/lmadem/DPRAM/assets/93139766/ef32d4b7-e997-41a7-b6e1-5a1c9d649d86)
+
+   #### TestCase4 EDA Waveform
+
+   ![image](https://github.com/lmadem/DPRAM/assets/93139766/ab62aa6a-790a-4bdd-87fb-652f2489d981)
+
+   ![image](https://github.com/lmadem/DPRAM/assets/93139766/3136474e-660f-456d-b17f-7c2a817d600f)
+
+   #### TestCase5 EDA Waveform
+
+   ![image](https://github.com/lmadem/DPRAM/assets/93139766/377c7ef9-beed-4dd9-babc-22e215cd1028)
+
+   ![image](https://github.com/lmadem/DPRAM/assets/93139766/0043d078-f5fd-49bf-b982-f47c21dc6eb7)
+
+   #### TestCase6 EDA Waveform
+
+   ![image](https://github.com/lmadem/DPRAM/assets/93139766/3c79976d-a6f0-4036-bedc-4dbfed6b71e9)
+
+   ![image](https://github.com/lmadem/DPRAM/assets/93139766/5d3dfccc-c81e-4458-a3b3-121b790b8971)
+
+
+  </details>
+</details>
