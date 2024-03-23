@@ -32,3 +32,18 @@ Design and Verification of Dual-Port RAM in System Verilog environment. The main
   <li> This is a simple DUAL-PORT RAM design implemented in verilog. Please check out the file "DPRAM.v" for verilog code</li>
   
 </details>
+
+<details>
+  <summary> Verification Plan </summary>
+
+  #### The verification plan for DPRAM design is implemented in two phases
+  <li> First phase is to list out the possible testing scenarios for the design and implementing them in a SV linear testbench </li>
+  <li> Second phase is to built a robust verification environment with all components and implement the testcases formulated in phase 1 </li>
+
+  <details> 
+    <summary> Test Plan </summary>
+
+  ![image](https://github.com/lmadem/DPRAM/assets/93139766/513b9c91-3fff-4d29-95aa-8d11f876bfff)
+
+  </details>
+</details>
