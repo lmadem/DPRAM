@@ -180,7 +180,7 @@ https://www.edaplayground.com/x/JvGt
 
 ##### Step 2 : Uncomment "Alltests.sv"(line 10) in testbench.sv file
 
-##### Step 3 : Comment line 16(which is SV environment testbench) and Uncomment line l3(SV Linear testbench). Please read the comments in top.sv file for more info
+##### Step 3 : Comment line 16(which is SV environment testbench) and Uncomment line 13(SV Linear testbench). Please read the comments in top.sv file for more info
 
 ##### Step 4 : To run individual tests, please look into the above attached screenshots in SV Linear folder of Verification Results and EDA Waveforms
 
@@ -193,7 +193,7 @@ https://www.edaplayground.com/x/JvGt
 
 ##### Step 2 : comment "Alltests.sv"(line 10) in testbench.sv file
 
-##### Step 3 : UnComment line 16(which is SV environment testbench) and comment line l3(SV Linear testbench). Please read the comments in top.sv file for more info
+##### Step 3 : UnComment line 16(which is SV environment testbench) and comment line 13(SV Linear testbench). Please read the comments in top.sv file for more info
 
 ##### Step 4 : To run individual tests, please look into the above attached screenshots in SV Environment folder of Verification Results and EDA Waveforms
 
