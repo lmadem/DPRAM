@@ -158,3 +158,44 @@ Design and Verification of Dual-Port RAM in System Verilog environment. The main
  
   </details>
 </details>
+
+<details>
+  <summary> EDA Playground Link and Simluation Steps </summary>
+
+  #### EDA Playground Link
+
+  ```bash
+https://www.edaplayground.com/x/JvGt
+  ```
+
+  #### Verification Standards
+
+  <li> Constrained random stimulus, robust generator, driver and monitors and In-order scoreboard </li>
+
+  #### Simulation Steps
+  <details>
+    <summary> SV Linear </summary>
+
+##### Step 1 : Comment "top.sv", "interface.sv", and "test.sv"(lines 4,5,6) in testbench.sv file 
+
+##### Step 2 : Uncomment "Alltests.sv"(line 10) in testbench.sv file
+
+##### Step 3 : Comment line 16(which is SV environment testbench) and Uncomment line l3(SV Linear testbench). Please read the comments in top.sv file for more info
+
+##### Step 4 : To run individual tests, please look into the above attached screenshots in SV Linear folder of Verification Results and EDA Waveforms
+
+  </details>
+  
+  <details>
+    <summary> SV Environment </summary>
+
+##### Step 1 : UnComment "top.sv", "interface.sv", and "test.sv"(lines 4,5,6) in testbench.sv file 
+
+##### Step 2 : comment "Alltests.sv"(line 10) in testbench.sv file
+
+##### Step 3 : UnComment line 16(which is SV environment testbench) and comment line l3(SV Linear testbench). Please read the comments in top.sv file for more info
+
+##### Step 4 : To run individual tests, please look into the above attached screenshots in SV Environment folder of Verification Results and EDA Waveforms
+
+  </details>
+</details>
