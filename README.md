@@ -54,7 +54,7 @@ Design and Verification of Dual-Port RAM in System Verilog environment. The main
   <details>
     <summary> SV Linear </summary>
 
-  <li> Implemented all the listed testcases as per the test plan in SV linear testbench. The linear testbench consists of top module, interface, program block, packet class, and the design file. Please check out the folder SV Linear. It has all the required files </li>
+  <li> Implemented all the listed testcases as per the test plan in SV linear testbench. The linear testbench consists of top module, interface, program block, packet class, and the design file.          Please check out the folder SV Linear. It has all the required files </li>
 
   <li> The SV Linear testbench will be able to execute all testcases in one simulation, but the simulation order will be sequential </li>
 
@@ -105,5 +105,56 @@ Design and Verification of Dual-Port RAM in System Verilog environment. The main
    ![image](https://github.com/lmadem/DPRAM/assets/93139766/5d7e0103-d3f0-4e7a-bfd7-dd315bf8287a)
 
 
+  </details>
+
+  <details> 
+    <summary> SV Environment </summary>
+
+   <li> Built a robust verification environment in System Verilog and implemented all the testcases. The SV testbench verification environment consists of packet class, generator class, driver             class, Monitor classes, scoreboard class, environment class, base_test class, test classes, program block, top module, interface and the design </li>
+
+   <li> The SV Environment will be able to drive one testcase per simulation </li>
+
+   <li> Please check out the folder SV Environment. It has all the required files </li>
+
+   ### Test Plan Status
+  
+   ![image](https://github.com/lmadem/DPRAM/assets/93139766/0f80f109-38c1-4b42-a3f4-b38bf9de0fb0)
+
+   #### TestCase1 EDA Waveform
+
+   ![image](https://github.com/lmadem/DPRAM/assets/93139766/91699b7c-8d97-4614-9bee-eb045295ba4c)
+
+   ![image](https://github.com/lmadem/DPRAM/assets/93139766/ac51d701-6da4-4eae-b6cd-47231c3dce62)
+
+   #### TestCase2 EDA Waveform
+
+   ![image](https://github.com/lmadem/DPRAM/assets/93139766/a17d561b-9dbe-4a29-9444-b79921ea1b8a)
+
+   ![image](https://github.com/lmadem/DPRAM/assets/93139766/3931895f-cc88-4df4-bb1a-49c8e11603a2)
+
+   #### TestCase3 EDA Waveform
+
+   ![image](https://github.com/lmadem/DPRAM/assets/93139766/8fe76380-5ab2-45a3-a2ba-c76a035be1a9)
+
+   ![image](https://github.com/lmadem/DPRAM/assets/93139766/7b175382-208a-4480-8de9-fdcd8d93e6fa)
+
+   #### TestCase4 EDA Waveform
+
+   ![image](https://github.com/lmadem/DPRAM/assets/93139766/60be9ae7-47d0-4e3c-9765-9dd9c89ba8b8)
+
+   ![image](https://github.com/lmadem/DPRAM/assets/93139766/b2e73df4-f072-42b8-bb25-99f7bb82068e)
+
+   #### TestCase5 EDA Waveform
+
+   ![image](https://github.com/lmadem/DPRAM/assets/93139766/18619610-7768-4dae-8e0c-5e4741d67a5e)
+
+   ![image](https://github.com/lmadem/DPRAM/assets/93139766/b04d17c1-7c14-4dce-b485-8a5a74e9b2bb)
+
+   #### TestCase6 EDA Waveform
+
+   ![image](https://github.com/lmadem/DPRAM/assets/93139766/3ec06e8e-0b08-4efb-a961-030ef16e0716)
+
+   ![image](https://github.com/lmadem/DPRAM/assets/93139766/4642952a-41a0-4c51-aa1e-9d0bd13edf8a)
+ 
   </details>
 </details>
