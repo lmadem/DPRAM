@@ -199,3 +199,21 @@ https://www.edaplayground.com/x/JvGt
 
   </details>
 </details>
+
+<details>
+  <summary>Challenge</summary>
+
+#### Verifying all the address location of a Memory
+
+<details>
+  <summary> If I have a address of 32 bits wide for a dual port RAM, what verification strategies are used to verify the entire memory space? </summary>
+
+  <li> We heavily rely on randomization of the address. But that does not ensure all address locations are verified </li>
+
+  <li> What verification strategies are adopted to ensure all address locations of a large memory is thoroughly verified? </li>
+
+  <li> Recommended Solutions Reference Link : https://verificationacademy.com/forums/t/verifying-all-address-locations-of-memory/46511 </li>
+
+  
+</details>
+</details>
