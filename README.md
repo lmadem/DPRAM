@@ -1,5 +1,5 @@
 # DPRAM
-Design and Verification of Dual-Port RAM in System Verilog environment. The main intension of this repository is to document the verification plan and test case implementation in System Verilog testbench environment and have a hands on Memory Verification.
+Design and Verification of Dual-Port RAM in System Verilog environment. The main intension of this repository is to document the verification plan and test case implementation in System Verilog testbench environment and have a hands-on implementation on Memory Verification.
 
 <details>
   <summary> Defining the black box design of DUAL-PORT RAM </summary>
